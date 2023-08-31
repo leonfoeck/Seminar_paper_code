@@ -1,1 +1,1 @@
-Konnte die Models nicht hochladen das die zu groß für github sind
+Konnte die Models nicht hochladen da die zu groß für github sind
