@@ -1,0 +1,17 @@
+name: neural-code-sum
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.8
+  - pytorch-cuda=11.7
+  - pip
+  - pip:
+      - nltk
+      - numpy
+      - prettytable
+      - psutil
+      - tqdm
+      - torch
+
